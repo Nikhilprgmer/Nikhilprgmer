@@ -1,11 +1,11 @@
 <h1 align="center">Hi There, I'm Nikhil Waghade</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate full Stack Learner from India</h3>
 
 - 🌱 I’m currently learning **Reactjs , nodejs**
 
 - 👯 I’m looking to collaborate on **Some Open Sorce Projects**
 
-- 📫 How to reach me **nikhilwaghade2002@gmail.com**
+- 📫 Reach Me via.. My Gmail **nikhilwaghade2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
